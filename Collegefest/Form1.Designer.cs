@@ -135,9 +135,9 @@
             this.Username.ForeColor = System.Drawing.Color.Black;
             this.Username.Location = new System.Drawing.Point(60, 167);
             this.Username.Multiline = true;
-            this.Username.Name = "Username";
+            this.Username.Name = "Abhee";
             this.Username.Size = new System.Drawing.Size(200, 28);
-            this.Username.TabIndex = 7;
+            this.Username.TabIndex = 5;
             this.Username.TextChanged += new System.EventHandler(this.Username_TextChanged);
             // 
             // Password
@@ -148,9 +148,9 @@
             this.Password.ForeColor = System.Drawing.Color.Black;
             this.Password.Location = new System.Drawing.Point(65, 240);
             this.Password.Multiline = true;
-            this.Password.Name = "Password";
+            this.Password.Name = "12345";
             this.Password.Size = new System.Drawing.Size(200, 28);
-            this.Password.TabIndex = 8;
+            this.Password.TabIndex = 5;
             // 
             // Form1
             // 
