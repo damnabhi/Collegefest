@@ -1,6 +1,6 @@
 ﻿namespace Collegefest
 {
-    partial class Form1
+    partial class Studentlog
     {
         /// <summary>
         /// Required designer variable.
